@@ -19,6 +19,6 @@
   "description": "",
   "dependencies": {
     "express": "^5.1.0",
-    "ytdl-core": "^4.11.5"
+    "ytdl-core": "^4.10.1"
   }
 }
